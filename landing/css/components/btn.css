@@ -1,0 +1,29 @@
+.btn{
+  background-color: #7fc8f8;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 50px;
+  transition: 0.2s;
+  font-weight: 100;
+  width: 225px;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+  opacity: 0.7;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+}
+
+.btn a {
+  text-decoration: none;
+  color: rgb(224, 240, 253);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.btn:hover {
+  padding: 15px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  font-size: 21px;
+  background-color: #75bff1;
+}

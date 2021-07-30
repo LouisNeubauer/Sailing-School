@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(212, 208, 208);
+  margin: 0;
+  text-align: center;
+}
+.icon a {
+  color: rgba(59, 67, 65, 0.5);
+  margin: 0px 30px;
+  font-size: 36px;
+}
+
+.icon a:hover {
+  background-color: rgba(59, 67, 65, 0.7);
+}

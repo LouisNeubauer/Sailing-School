@@ -1,0 +1,19 @@
+.banner {
+  background-image: url("../../images/banner.jpeg");
+  background-size: cover;
+  height: 600px;
+  font-size: 2em;
+  color: rgb(229, 240, 250);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+  background-position: center;
+}
+
+.banner h1, .banner h3 {
+  padding: 20px;
+}
+
+.headline {
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+}
