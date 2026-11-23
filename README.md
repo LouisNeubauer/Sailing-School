@@ -1,65 +1,40 @@
-## Background & Objectives
+<h1 align="center">Sailing School</h1>
 
-Now that we have had some practice building some basic components, let's see how we can use them and combine them to make a real landing page! Any website has to have a **beautiful landing page**. They are important as they're the first page visitors will see and it needs to be good enough to convert them into clients 💰.
-In this challenge you will reproduce a classic landing page design like [this one](https://arthur-littm.github.io/startup-landing/)!
+<p align="center"><b>A landing page assembled from components — the week the pieces started fitting together.</b></p>
 
-Your landing page should **at least** include:
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="Le Wagon" src="https://img.shields.io/badge/Le%20Wagon-FF0000?style=flat-square">
+</p>
 
-- A **Hero / Banner** section presenting your product with a call to action.
-- A **How it works** section (what components could be used to break down the different aspects of your product/service) .
-- A **Footer**.
+<p align="center"><sub>🎓 Le Wagon full-stack bootcamp · 2021 · Week 1 · Front-end challenge</sub></p>
 
-## Mockup
+---
 
-⚠️ **Never start coding a page without knowing how it will look!**
+## What this is
 
+[Le Wagon](https://www.lewagon.com/) is a nine-week, full-time coding bootcamp — roughly 400 hours of Ruby, object-oriented design, SQL, front-end and Ruby on Rails, nine in the morning until seven at night, homework on top. ([programme](https://www.lewagon.com/web-development-course))
 
-In the coming weeks you will learn how to mockup your pages like a pro using [Figma](https://www.figma.com/), but for today you can use a pen and paper to design the different sections of your page.
+This repository is one step of that programme, kept exactly as it was written in 2021 — **before AI assistants, autocomplete or anything that writes code for you.** Every line here was typed by hand, every error read and understood. That is the point of keeping it.
 
-For this exercise, you should have something like this.
+## What is in it
 
-<div class="text-center">
-  <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/startup-landing-drawing.png" alt="" width="100%">
-</div>
+A full landing page for a sailing school, built to the brief: a hero that states what the thing is, feature sections, imagery, and a call to action that a visitor can actually find.
 
-⚠️ If you're not 100% certain you have the right structure drawn, ask a teacher to confirm before starting to code!
+The challenge was not to make it work — it was to make a stranger want to stay on it.
 
-## Specs
+## What it taught me
 
-Build a landing page with the following elements:
+That a landing page is an argument, not a decoration: hierarchy decides what someone reads first, whitespace decides whether they keep going, and the call to action only works if everything above it earned the click. Also the mechanics — reusable components, consistent spacing, a layout that survives a narrow window.
 
-- A **Hero / Banner** section presenting your product.
-- A **How it works** section.
-- A **Footer**.
+## Stack
 
-## Further suggestions & resources
+`HTML5 · CSS3 · responsive layout`
 
-- [Flexbox](https://kitt.lewagon.com/knowledge/cheatsheets/flexbox)
-- [Good google fonts pairs](https://fontpair.co/)
-- [Startup illustrations](https://undraw.co/illustrations)
-- [Icons](https://www.flaticon.com/)
-- [Coolors](https://coolors.co/)
+---
 
-## Finished?
-
-Once you've finished you can push your page to [Github pages](https://pages.github.com) once again and share it on your batch channel:
-
-First, copy the project out of `fullstack-challenges` so we can track it as a seperate `git` project:
-
-```bash
-cp -r ../03-Landing-page/landing ~/code/<user.github_nickname>
-cd ~/code/<user.github_nickname>/landing
-```
-
-Then, start tracking the project with `git` and push to a `gh-pages` branch:
-
-```bash
-git init
-git add .
-git commit -m "my landing page"
-gh repo create
-git push origin master # push to master first
-# then puts to a `gh-pages` branch
-git co -b gh-pages
-git push origin gh-pages
-```
+<p align="center">
+  <sub>Part of my 2021 Le Wagon apprenticeship — the full set is on <a href="https://github.com/LouisNeubauer">my profile</a>.<br>
+  For what I build now, start there.</sub>
+</p>
